@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoulGainChanger", "SoulGainChanger\SoulGainChanger.csproj", "{5205DE62-DC4B-47D5-8A83-1A1E73082E8D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5205DE62-DC4B-47D5-8A83-1A1E73082E8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5205DE62-DC4B-47D5-8A83-1A1E73082E8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5205DE62-DC4B-47D5-8A83-1A1E73082E8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5205DE62-DC4B-47D5-8A83-1A1E73082E8D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3D1C149F-B6C9-43E5-90D5-F78E0F940837}
+	EndGlobalSection
+EndGlobal
